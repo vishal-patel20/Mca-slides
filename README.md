@@ -1,4 +1,3 @@
-format 
-"rollno_topic_aws/gcp/azure.ppt"
-example
-39_blockchain_aws.ppt
+Naming scheme for all students will be 
+
+Rollno2bit_Aws/azure/gcp_yourtopicnam
